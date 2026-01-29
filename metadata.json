@@ -1,0 +1,5 @@
+{
+  "name": "youtube cycle analytics",
+  "description": "A powerful dashboard to track YouTube channel statistics and generate content insights using Google Gemini.",
+  "requestFramePermissions": []
+}
